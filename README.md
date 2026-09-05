@@ -1,3 +1,6 @@
+<img width="1798" height="877" alt="Screenshot 2026-09-05 061936" src="https://github.com/user-attachments/assets/20558df7-28c0-48ad-a034-4f0a274ba733" />
+<img width="1797" height="871" alt="Screenshot 2026-09-05 061912" src="https://github.com/user-attachments/assets/e71d8fe2-04f9-4d2c-bc1e-5c9bf54ae36f" />
+<img width="1798" height="882" alt="Screenshot 2026-09-05 061851" src="https://github.com/user-attachments/assets/5c7989c9-70e8-47ac-bd84-cd9529b479a2" />
 # Safe Web Inspector
 
 [![Repo Size](https://img.shields.io/github/repo-size/Creator-Naren/Safe-web-Inspector)](https://github.com/Creator-Naren/Safe-web-Inspector)
