@@ -19,15 +19,13 @@ Built to be developer-friendly and highly visual — the inspector displays a co
 
 Visual gallery (these relative links assume you added the files above):
 
-![Inspector Home & Score](<img width="1798" height="877" alt="Screenshot 2026-09-05 061936" src="https://github.com/user-attachments/assets/20558df7-28c0-48ad-a034-4f0a274ba733" />
-)
+<img width="1798" height="877" alt="Screenshot 2026-09-05 061936" src="https://github.com/user-attachments/assets/20558df7-28c0-48ad-a034-4f0a274ba733" />
 Caption: Landing UI and example site safety score summary.
 
-![Security Strengths & Diagnostics](<img width="1797" height="871" alt="Screenshot 2026-09-05 061912" src="https://github.com/user-attachments/assets/e71d8fe2-04f9-4d2c-bc1e-5c9bf54ae36f" />
-)
+<img width="1797" height="871" alt="Screenshot 2026-09-05 061912" src="https://github.com/user-attachments/assets/e71d8fe2-04f9-4d2c-bc1e-5c9bf54ae36f" />
 Caption: Security strengths, identified risks, and deep technical diagnostics.
 
-![Certificate Details & Recent Inspections](<img width="1798" height="882" alt="Screenshot 2026-09-05 061851" src="https://github.com/user-attachments/assets/5c7989c9-70e8-47ac-bd84-cd9529b479a2" />)
+<img width="1798" height="882" alt="Screenshot 2026-09-05 061851" src="https://github.com/user-attachments/assets/5c7989c9-70e8-47ac-bd84-cd9529b479a2" />
 Caption: Certificate metadata, SANs, and recent inspection cards.
 
 ---
